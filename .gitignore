@@ -1,0 +1,39 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# Logs
+*.log
+
+
+# Project outputs
+Kimetsu/
+*.cbr
+*.epub
+epug_utf8.tmp
+
